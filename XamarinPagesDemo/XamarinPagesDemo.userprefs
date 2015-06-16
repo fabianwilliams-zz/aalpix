@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Droid/XamarinPagesDemo.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.FabianNexus5(Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinPagesDemo/Views/MasterPage.cs">
+    <Files>
+      <File FileName="XamarinPagesDemo/Views/CSharpPage.cs" Line="12" Column="1" />
+      <File FileName="XamarinPagesDemo/Views/XAMLPage.cs" Line="14" Column="39" />
+      <File FileName="XamarinPagesDemo/Views/MasterPage.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
