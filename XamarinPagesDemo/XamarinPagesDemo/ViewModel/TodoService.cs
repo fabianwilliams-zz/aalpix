@@ -19,8 +19,8 @@ namespace XamarinPagesDemo
 	public class TodoService
 	{
 		private MobileServiceClient MobileService = new MobileServiceClient(
-			"https://pcdserver.azure-mobile.net/",
-			"OLJpreavvHyJUHafYxKmRvafIhjqvY37"
+			"https://{yourWAMSurihere.azure-mobile.net/",
+			"add your own key here"
 		);
 
 		public List<TodoItem> Items { get; private set;}
