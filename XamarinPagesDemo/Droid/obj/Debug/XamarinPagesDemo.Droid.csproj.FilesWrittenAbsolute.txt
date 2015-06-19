@@ -19,3 +19,12 @@
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/obj/Debug/res/drawable/csharp.png
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/obj/Debug/res/drawable/xaml.png
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/System.Net.Http.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/System.Net.Http.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/SQLitePCL.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/SQLitePCL.Ext.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll

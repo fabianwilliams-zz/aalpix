@@ -1,0 +1,7 @@
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/bin/Debug/XamarinPagesDemo.UITests.dll.mdb
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/bin/Debug/XamarinPagesDemo.UITests.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/obj/Debug/XamarinPagesDemo.UITests.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/obj/Debug/XamarinPagesDemo.UITests.dll.mdb
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/bin/Debug/nunit.framework.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/UITests/bin/Debug/Xamarin.UITest.dll

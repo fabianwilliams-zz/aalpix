@@ -7,8 +7,8 @@ namespace XamarinPagesDemo
 	{
 		public MasterPage ()
 		{
-			this.Children.Add (new CSharpPage () { Title = "C-Sharp Page", Icon = "csharp.png" });
-			this.Children.Add (new XAMLPage () { Title = "XAML Page",Icon = "xaml.png" });
+			this.Children.Add (new ToDoHomePage () { Title = "Load Todo Items", Icon = "csharp.png" });
+			this.Children.Add (new TodoAddItem () { Title = "Add Todo Item",Icon = "xaml.png" });
 		}
 	}
 }

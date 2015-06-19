@@ -10,6 +10,7 @@ void xamarin_register_assemblies ()
 {
 	xamarin_open_and_register ("Xamarin.iOS.dll");
 	xamarin_open_and_register ("Xamarin.Forms.Platform.iOS.dll");
+	xamarin_open_and_register ("Microsoft.WindowsAzure.Mobile.Ext.dll");
 
 }
 

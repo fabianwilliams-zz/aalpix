@@ -14,8 +14,17 @@
     <Compile Include="$(MSBuildThisFileDirectory)Views\MasterPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\CSharpPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\XAMLPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TodoItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\TodoService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ToDoStuff\ToDoHomePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ToDoStuff\TodoAddItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helper\TodoItemCell.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Views\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
+    <Folder Include="$(MSBuildThisFileDirectory)ViewModel\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Helper\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Views\ToDoStuff\" />
   </ItemGroup>
 </Project>

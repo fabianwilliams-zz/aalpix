@@ -36,3 +36,15 @@
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/obj/iPhoneSimulator/Debug/csharp.png
 /Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/obj/iPhoneSimulator/Debug/xaml.png
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/System.IO.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/System.Runtime.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/System.Threading.Tasks.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.Ext.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/aalpix/XamarinPagesDemo/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
